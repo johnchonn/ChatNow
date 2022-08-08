@@ -3,6 +3,7 @@ ChatNow is a chat application that allows users to privately chat with one anoth
 
 # Installation
 npm install
+
 npm run dev
 
 # Usage
